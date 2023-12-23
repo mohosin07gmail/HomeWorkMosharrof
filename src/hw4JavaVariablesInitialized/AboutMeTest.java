@@ -6,7 +6,8 @@ public class AboutMeTest {
 
 		AboutMe aboutMe = new AboutMe();// constructor is initialized here.
 
-		aboutMe.aboutMe();// method is initialized
+		aboutMe.aboutMe();// method is initialized just checking
+		
 	}
 
 }
