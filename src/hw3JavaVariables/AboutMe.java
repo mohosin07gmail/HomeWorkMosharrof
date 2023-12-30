@@ -15,8 +15,8 @@ public class AboutMe {
 	public double myGrade = 4.25;
 	public char myGender = 'M';
 	public boolean fullTimeStudent = false;
-	
-	//constructor is declared here
+
+	// constructor is declared here
 	public AboutMe() {
 		System.out.println(":------------ This is all about Myself ------------:");
 	}
