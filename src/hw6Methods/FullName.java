@@ -6,7 +6,7 @@ public class FullName {
 		String fullName = fName + " " + lName;
 		System.out.println("Family Member: " + fullName);
 
-		return null;
+		return fullName;
 	}
 
 	public static void main(String[] args) {
