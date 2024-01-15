@@ -1,0 +1,9 @@
+package hw10Abstraction;
+
+public class RockefellerUniversity {
+
+	public void maths() {
+		System.out.println("this is non-abstract maths method from RockefellerUniversity");
+	}
+
+}
