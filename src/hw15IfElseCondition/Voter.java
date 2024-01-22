@@ -1,9 +1,9 @@
 package hw15IfElseCondition;
 
 public class Voter {
-	
+
 	public static void main(String[] args) {
-		
+
 		int age = 37;
 		if (age == 18) {
 			System.out.println("I am a Voter");
